@@ -1,11 +1,14 @@
+import React from 'react';
 import './index.css';
+
+import AddJob from './container/addjob/index';
 
 const App = () =>{
   return(
     <>
-      <h1>Testando app que cria cards de vaga de emprego</h1>
+      <AddJob />
     </>
-  )
+  );
 };
 
 export default App;

@@ -1,0 +1,11 @@
+.cardForm {
+    margin: 2rem auto;
+    background-color: rgb(172, 248, 223);
+    max-width: 35rem;
+    padding: 1.2rem;
+    border-radius: 0.5rem;
+}
+
+.cardForm input {
+    display: block;
+}
