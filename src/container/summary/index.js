@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Summary = () => {
+const Summary = (props) => {
     return(
         <>
-            Testando
+            {props.testando && 'Testando'}
         </>
     )
 }
