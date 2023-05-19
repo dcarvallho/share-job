@@ -22,3 +22,7 @@
 .formItens label {
     font-size: larger;
 }
+
+.formItens button {
+    display: block;
+}
